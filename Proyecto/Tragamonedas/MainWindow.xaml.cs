@@ -1,10 +1,10 @@
 ﻿using System;
-using System.Threading;
 using System.Windows;
 using System.Windows.Media.Imaging;
 using System.Windows.Threading;
 using System.Windows.Media.Animation;
 
+// peoyecto WPF tragamonedas 
 namespace Tragamonedas
 {
     public partial class MainWindow : Window
